@@ -11,7 +11,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office: F404</p>
-    <p>398 Ruoshui Rd., Suzhou Industrial Park</p>
+    <p>398 Ruoshui Rd., SIP</p>
     <p>Suzhou, China 215123</p>
 
 news: true # includes a list of news items
