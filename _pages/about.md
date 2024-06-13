@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Where Precise Nanoscale Assembly Takes Place
+subtitle: Where Precise Nanoscale Assembly Takes Place.
 <a href='#'>Suzhou Institute of Nano-Tech and Nano-Bionics</a> 
 
 
