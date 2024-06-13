@@ -1,11 +1,10 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Zeng, Cheng",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "czeng2024@sinano.ac.cn",
+    "url": "https://czeng-lab.github.io/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
