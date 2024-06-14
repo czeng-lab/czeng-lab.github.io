@@ -12,7 +12,7 @@ profiles:
   - align: right
     image: prof_pic.jpg
     content: people_zeng_cheng.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
-      <p><h>Principle Investigator</h></p>
+      <h><p>Principle Investigator</p></h>
 ---
