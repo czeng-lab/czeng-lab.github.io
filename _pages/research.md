@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: research
-description: We study the interplay among micro-/nano-scale objects and interfaces, and harness to assemble devices that benefit us
+description: We study the interplay among micro-/nano-scale objects and interfaces, and harness them to assemble devices that benefit us
 nav: true
 nav_order: 4
 ---
