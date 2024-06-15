@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: default
 permalink: /research/
 title: research
 description: We're interested in the interplay among micro-/nano-scale objects and interfaces. We also harness such interactions to drive assemblies that benefit us in numerous wa
