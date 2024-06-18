@@ -297,6 +297,7 @@ filtered_bibtex_keywords:
     code,
     html,
     pdf,
+    selected,
     poster,
     preview,
     slides,
