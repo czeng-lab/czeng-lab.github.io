@@ -39,7 +39,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: false
+rss_icon: true
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -48,7 +48,7 @@ rss_icon: false
 navbar_fixed: true
 footer_fixed: true
 search_enabled: false
-socials_in_search: true
+socials_in_search: false
 
 # Dimensions
 max_width: 930px
@@ -109,7 +109,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  For questions, send an e-mail to Dr. Zeng (czeng2024@sinano.ac.cn)
+
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
