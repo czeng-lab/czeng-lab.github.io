@@ -10,7 +10,7 @@ We have multiple openings for perspective postdocs, research assitants, and grad
 
 ---
 
-#### What you will do
+##### What you will do
 
 <ul>
     <li>Design and build experimental apparatus for capillary-driven assembly</li>
@@ -18,7 +18,7 @@ We have multiple openings for perspective postdocs, research assitants, and grad
     <li>Characterize the strcuture and function of devices</li>
 </ul>
 
-#### What you will have
+##### What we offer
 
 <ul>
     <li>An inclusive and professional research environment</li>
@@ -26,6 +26,6 @@ We have multiple openings for perspective postdocs, research assitants, and grad
     <li>Unlimited growth opportunies and flexible career paths</li>
 </ul>
 
-Interested? Email [Cheng](mailto:czeng2024@sinano.ac.cn)!
+##### Interested? Email [Cheng](mailto:czeng2024@sinano.ac.cn)!
 
 ---
