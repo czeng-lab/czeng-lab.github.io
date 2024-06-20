@@ -14,3 +14,4 @@ The precise assembly of objects at the micro-/nano-scales requires well-controll
 At CAS, we're pushing the boundaries of capillary machines towards much more complex systems. We aim to achieve high throughput, arbitrary topologies, and material selectivity during assembly. 
 
 For more details, see [publications page](/publications/) 
+
