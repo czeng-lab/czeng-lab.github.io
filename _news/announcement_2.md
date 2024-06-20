@@ -5,9 +5,11 @@ date: 2024-05-13 12:00:00-0400
 inline: false
 related_posts: false
 ---
+
 We have multiple openings for perspective postdocs, research assitants, and graduate students. 
 
 ---
+
 What you will do:
 Design and build experimental apparatus for capillary-driven assembly;
 Assemble functional devices using particles, chiplets and fibers;
