@@ -9,14 +9,14 @@ related_posts: false
 We have multiple openings for perspective postdocs, research assitants, and graduate students. 
 
 What you will do:
-- Design and build experimental apparatus for capillary-driven assembly;
-- Assemble functional devices using particles, chiplets and fibers;
-- Characterize the strcuture and function of devices.
+Design and build experimental apparatus for capillary-driven assembly;
+Assemble functional devices using particles, chiplets and fibers;
+Characterize the strcuture and function of devices.
 
 What you will have:
-- An inclusive and professional research environment;
-- Strong financial support;
-- Unlimited growth opportunies and flexible career paths.
+An inclusive and professional research environment;
+Strong financial support;
+Unlimited growth opportunies and flexible career paths.
 
 Interested? Email [Cheng](mailto:czeng2024@sinano.ac.cn)!
 ---
