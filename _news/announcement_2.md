@@ -12,7 +12,8 @@ What you will do:
 - Design and build experimental apparatus for capillary-driven assembly;
 - Assemble functional devices using particles, chiplets and fibers;
 - Characterize the strcuture and function of devices.
-[What you will have:
+
+What you will have:
 - An inclusive and professional research environment;
 - Strong financial support;
 - Unlimited growth opportunies and flexible career paths.
