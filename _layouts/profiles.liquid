@@ -10,11 +10,11 @@ layout: page
           {% if profile.image %}
             {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
             {% if profile.image_circular %}
-              {% assign profile_image_class = 'img-responsive z-depth-1 rounded-circle' %}
+              {% assign profile_image_class = 'img-responsive z-depth-3 rounded-circle' %}
             {% else %}
-              {% assign profile_image_class = 'img-responsive z-depth-1 rounded' %}
+              {% assign profile_image_class = 'img-responsive z-depth-3 rounded' %}
             {% endif %}
-            {% capture sizes %}(min-width: {{site.max_width}}) 5vw, (min-width: 576px) 5vw, 5vw"{% endcapture %}
+            {% capture sizes %}(min-width: {{site.max_width}}) 5vw, (min-width: 576px) 5vw, 95vw"{% endcapture %}
             {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
           {% endif %}
           {% if profile.more_info %}
