@@ -8,7 +8,7 @@ nav_order: 9
 
 <div class="gallery">
   <figure>
-    <img src="assets/img/gallery/image1.jpg" alt="Image 1">
+    <img src="assets/img/1.jpg" alt="Image 1">
     <figcaption>Test image</figcaption>
   </figure>
 </div>
