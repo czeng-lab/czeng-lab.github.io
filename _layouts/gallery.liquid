@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+<div class="gallery">
+  {% for image in site.data.gallery.images %}
+    <figure>
+      <img src="{{ image.url }}" alt="{{ image.alt }}">
+      <figcaption>{{ image.caption }}</figcaption>
+    </figure>
+  {% endfor %}
+</div>
