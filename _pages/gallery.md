@@ -11,4 +11,8 @@ nav_order: 9
     <img src="assets/img/1.jpg" alt="Image 1">
     <figcaption>Test image</figcaption>
   </figure>
+    <figure>
+    <img src="assets/img/2.jpg" alt="Image 2">
+    <figcaption>Test image2</figcaption>
+  </figure>
 </div>
