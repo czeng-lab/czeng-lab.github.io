@@ -147,3 +147,8 @@
 {% if page.tikzjax %}
   <link defer rel="stylesheet" type="text/css" href="https://tikzjax.com/v1/fonts.css">
 {% endif %}
+
+<!-- Gallery CSS -->
+{% if page.layout == 'gallery' %}
+<link rel="stylesheet" href="{{ '/assets/css/gallery.css' | relative_url }}">
+{% endif %}
