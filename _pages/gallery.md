@@ -2,6 +2,8 @@
 layout: page
 title: Gallery
 permalink: /gallery/
+nav: true
+nav_order: 9
 ---
 
 # Gallery
